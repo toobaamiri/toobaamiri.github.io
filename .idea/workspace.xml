@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.html" afterPath="$PROJECT_DIR$/works/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -645,7 +644,11 @@
       <created>1447083080104</created>
       <updated>1447083080104</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change7">
+      <created>1447083330705</created>
+      <updated>1447083330705</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,7 +688,8 @@
     <MESSAGE value="change4" />
     <MESSAGE value="change5" />
     <MESSAGE value="change6" />
-    <option name="LAST_COMMIT_MESSAGE" value="change6" />
+    <MESSAGE value="change7" />
+    <option name="LAST_COMMIT_MESSAGE" value="change7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
