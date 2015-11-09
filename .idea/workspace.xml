@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/headers.html" afterPath="$PROJECT_DIR$/_includes/headers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -62,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="74" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.10594796" vertical-offset="91" max-vertical-offset="663">
+            <state line="2" column="74" selection-start="95" selection-end="95" vertical-scroll-proportion="2.28" vertical-offset="91" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -86,7 +86,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/works/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="51" selection-start="557" selection-end="557" vertical-scroll-proportion="42.53846" vertical-offset="1293" max-vertical-offset="1972">
+            <state line="34" column="9" selection-start="1558" selection-end="1581" vertical-scroll-proportion="-14.038462" vertical-offset="213" max-vertical-offset="1972">
               <folding />
             </state>
           </provider>
@@ -110,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="headers.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="headers.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/headers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="918">
+            <state line="11" column="40" selection-start="398" selection-end="398" vertical-scroll-proportion="0.29981378" vertical-offset="26" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -138,7 +138,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_includes/headers.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
@@ -151,8 +150,9 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/works/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/_site/works/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_site/works/index.html" />
+        <option value="$PROJECT_DIR$/_includes/headers.html" />
       </list>
     </option>
   </component>
@@ -710,7 +710,11 @@
       <created>1447095293017</created>
       <updated>1447095293017</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="change13">
+      <created>1447096428544</created>
+      <updated>1447096428544</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -840,27 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/headers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/works/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="51" selection-start="557" selection-end="557" vertical-scroll-proportion="42.53846" vertical-offset="1293" max-vertical-offset="1972">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="704" selection-end="704" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
@@ -870,12 +853,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="74" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.10594796" vertical-offset="91" max-vertical-offset="663">
+        <state line="2" column="74" selection-start="95" selection-end="95" vertical-scroll-proportion="2.28" vertical-offset="91" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="704" selection-end="704" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/works/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="9" selection-start="1558" selection-end="1581" vertical-scroll-proportion="-14.038462" vertical-offset="213" max-vertical-offset="1972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/headers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="398" selection-end="398" vertical-scroll-proportion="0.29981378" vertical-offset="26" max-vertical-offset="918">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
