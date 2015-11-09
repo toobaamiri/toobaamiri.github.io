@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/biography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/biography/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -25,10 +27,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="10" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0609319" vertical-offset="34" max-vertical-offset="918">
+            <state line="4" column="10" selection-start="151" selection-end="151" vertical-scroll-proportion="-1.3076923" vertical-offset="34" max-vertical-offset="918">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="51" selection-end="304" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="biography.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/biography.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/biography/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="10" selection-start="77" selection-end="77" vertical-scroll-proportion="0.09139785" vertical-offset="0" max-vertical-offset="558">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="232" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -61,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
@@ -77,6 +113,8 @@
         <option value="$PROJECT_DIR$/_site/works/index.html" />
         <option value="$PROJECT_DIR$/_includes/headers.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_layouts/biography.html" />
+        <option value="$PROJECT_DIR$/biography/index.html" />
       </list>
     </option>
   </component>
@@ -188,6 +226,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toobaamiri.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toobaamiri.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biography" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,6 +377,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -646,7 +699,11 @@
       <created>1447097473840</created>
       <updated>1447097473840</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="change13">
+      <created>1447097520715</created>
+      <updated>1447097520715</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -699,20 +756,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="429" selection-end="429" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="74" selection-start="95" selection-end="95" vertical-scroll-proportion="2.28" vertical-offset="91" max-vertical-offset="663">
@@ -721,13 +764,6 @@
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="704" selection-end="704" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/works/index.html">
@@ -779,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/headers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="36" selection-start="212" selection-end="212" vertical-scroll-proportion="0.13620071" vertical-offset="26" max-vertical-offset="918">
@@ -809,7 +838,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0609319" vertical-offset="34" max-vertical-offset="918">
+        <state line="4" column="10" selection-start="151" selection-end="151" vertical-scroll-proportion="-1.3076923" vertical-offset="34" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="232" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="51" selection-end="304" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/biography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biography/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="77" selection-end="77" vertical-scroll-proportion="0.09139785" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
