@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" afterPath="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" afterPath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -51,7 +49,7 @@
       <file leaf-file-name="2014-12-05-start - Copy.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="20" selection-start="2297" selection-end="2310" vertical-scroll-proportion="0.5752381" vertical-offset="225" max-vertical-offset="765">
+            <state line="31" column="54" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.5752381" vertical-offset="225" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -674,7 +672,11 @@
       <created>1447087397405</created>
       <updated>1447087397405</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="change13">
+      <created>1447087540842</created>
+      <updated>1447087540842</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -837,7 +839,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="20" selection-start="2297" selection-end="2310" vertical-scroll-proportion="0.5752381" vertical-offset="225" max-vertical-offset="765">
+        <state line="31" column="54" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.5752381" vertical-offset="225" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
