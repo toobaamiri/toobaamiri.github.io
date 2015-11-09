@@ -1,11 +1,11 @@
 # Site settings
-title: toobaamiri | طوبی امیری
-email: amirit074@gmail.com
-description: دانشجوی کامپیوتر _نرم افزار
-baseurl: "http://toobaamiri.ir/"
-url: "http://toobaamiri.ir"
+title: Hossein Karami | حسین کرمی
+email: hi@hosseinkarami.com
+description: توسعه‌دهنده رابط کاربری
+baseurl: "http://hosseinkarami.com/"
+url: "http://hosseinkarami.com"
 twitter: _Karamii
-github:  toobaamiri
+github:  HosseinKarami
 behance: HosseinKarami
 # Build settings
 markdown: kramdown
