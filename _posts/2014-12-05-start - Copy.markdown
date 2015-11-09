@@ -31,9 +31,4 @@ SDRAM این فرآیند را با همزمان سازی و همگام کردن
 
 
 
-[fastshell]: http://toobaamiri.github.io/fastshell/
-[jekyll]: http://jekyllrb.com/
-
-
-[docs]: https://github.com/toobaamiri/fastshell/blob/master/docs/DOCS.md
 [
