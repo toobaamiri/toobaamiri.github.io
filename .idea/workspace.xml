@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" afterPath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -26,19 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="57" selection-start="866" selection-end="866" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-12-05-start.markdown" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2014-12-05-start.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="30" selection-start="2588" selection-end="2588" vertical-scroll-proportion="-18.04" vertical-offset="195" max-vertical-offset="765">
+            <state line="27" column="0" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.6" vertical-offset="144" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -101,10 +92,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="91" selection-start="780" selection-end="780" vertical-scroll-proportion="0.6424581" vertical-offset="80" max-vertical-offset="731">
+            <state line="25" column="91" selection-start="780" selection-end="780" vertical-scroll-proportion="-13.269231" vertical-offset="80" max-vertical-offset="731">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -143,11 +143,11 @@
         <option value="$PROJECT_DIR$/works/index.html" />
         <option value="$PROJECT_DIR$/_includes/headers.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
       </list>
     </option>
   </component>
@@ -687,7 +687,11 @@
       <created>1447088782882</created>
       <updated>1447088782882</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="change13">
+      <created>1447089586734</created>
+      <updated>1447089586734</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -740,13 +744,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="29" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="425">
@@ -794,16 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="30" selection-start="2588" selection-end="2588" vertical-scroll-proportion="-18.04" vertical-offset="195" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/headers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="20" selection-start="170" selection-end="170" vertical-scroll-proportion="-1.8461539" vertical-offset="37" max-vertical-offset="918">
@@ -848,9 +835,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="91" selection-start="780" selection-end="780" vertical-scroll-proportion="0.6424581" vertical-offset="80" max-vertical-offset="731">
+        <state line="25" column="91" selection-start="780" selection-end="780" vertical-scroll-proportion="-13.269231" vertical-offset="80" max-vertical-offset="731">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.6" vertical-offset="144" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
