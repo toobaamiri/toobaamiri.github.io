@@ -56,7 +56,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/biography/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+            <state line="2" column="10" selection-start="224" selection-end="224" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
               <folding>
                 <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
               </folding>
@@ -85,9 +85,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biography/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="134" selection-start="264" selection-end="264" vertical-scroll-proportion="0.18994413" vertical-offset="0" max-vertical-offset="537">
+            <state line="30" column="8" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.97328246" vertical-offset="0" max-vertical-offset="901">
               <folding>
                 <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#article#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -784,7 +785,11 @@
       <created>1447099302155</created>
       <updated>1447099302155</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="change13">
+      <created>1447100012217</created>
+      <updated>1447100012217</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -937,7 +942,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/biography/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="222" selection-end="222" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+        <state line="2" column="10" selection-start="224" selection-end="224" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
           <folding>
             <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
           </folding>
@@ -946,9 +951,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/biography/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="134" selection-start="264" selection-end="264" vertical-scroll-proportion="0.18994413" vertical-offset="0" max-vertical-offset="537">
+        <state line="30" column="8" selection-start="1394" selection-end="1394" vertical-scroll-proportion="0.97328246" vertical-offset="0" max-vertical-offset="901">
           <folding>
             <element signature="n#style#0;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#article#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
