@@ -1,10 +1,10 @@
 # HosseinKarami.com
 
-The Jekyll build for hosseinkarami.com, built on [FastShell](http://hosseinkarami.github.io/fastshell/).
+The Jekyll build for toobaamiri.ir, built on [FastShell](http://toobaamiri.github.io/fastshell/).
 
 * Learn more about how to use Jekyll here:  [jekyllrb.com](http://jekyllrb.com)
 
-* Site: [HosseinKarami.com](http://hosseinkarami.com)
+* Site: [toobaamiri.ir](http://hosseinkarami.com)
 * Twitter: [@_Karamii](https://twitter.com/_Karamii)
 
 
