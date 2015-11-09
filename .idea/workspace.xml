@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="change12">
+    <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" afterPath="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" afterPath="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-12-05-start.markdown" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2014-12-05-start.markdown" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="55" selection-start="205" selection-end="205" vertical-scroll-proportion="0.28761905" vertical-offset="19" max-vertical-offset="680">
+            <state line="29" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="-11.92" vertical-offset="195" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -48,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-12-05-start - Copy.markdown" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="2014-12-05-start - Copy.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="30" selection-start="2303" selection-end="2303" vertical-scroll-proportion="-20.24" vertical-offset="21" max-vertical-offset="765">
+            <state line="34" column="30" selection-start="4285" selection-end="4285" vertical-scroll-proportion="0.6761905" vertical-offset="223" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/_includes/headers.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
       </list>
     </option>
   </component>
@@ -658,7 +658,11 @@
       <created>1447085182987</created>
       <updated>1447085182987</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="change12">
+      <created>1447086725768</created>
+      <updated>1447086725768</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -703,7 +707,8 @@
     <MESSAGE value="change9" />
     <MESSAGE value="change10" />
     <MESSAGE value="change11" />
-    <option name="LAST_COMMIT_MESSAGE" value="change11" />
+    <MESSAGE value="change12" />
+    <option name="LAST_COMMIT_MESSAGE" value="change12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -807,9 +812,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="30" selection-start="2303" selection-end="2303" vertical-scroll-proportion="-20.24" vertical-offset="21" max-vertical-offset="765">
+        <state line="29" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="-11.92" vertical-offset="195" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
@@ -817,9 +822,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="55" selection-start="205" selection-end="205" vertical-scroll-proportion="0.28761905" vertical-offset="19" max-vertical-offset="680">
+        <state line="34" column="30" selection-start="4285" selection-end="4285" vertical-scroll-proportion="0.6761905" vertical-offset="223" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
