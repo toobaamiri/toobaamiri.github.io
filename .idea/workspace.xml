@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -68,7 +67,7 @@
       <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="65" selection-start="136" selection-end="136" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
+            <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="0.75977653" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -641,7 +640,11 @@
       <created>1447082773025</created>
       <updated>1447082773025</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change6">
+      <created>1447082991817</created>
+      <updated>1447082991817</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -680,7 +683,8 @@
     <MESSAGE value="change3" />
     <MESSAGE value="change4" />
     <MESSAGE value="change5" />
-    <option name="LAST_COMMIT_MESSAGE" value="change5" />
+    <MESSAGE value="change6" />
+    <option name="LAST_COMMIT_MESSAGE" value="change6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -803,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="65" selection-start="136" selection-end="136" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
+        <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="0.75977653" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
