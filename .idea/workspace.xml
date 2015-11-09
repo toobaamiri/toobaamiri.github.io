@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/headers.html" afterPath="$PROJECT_DIR$/_includes/headers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -26,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="18" selection-start="89" selection-end="121" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1037">
+            <state line="8" column="32" selection-start="331" selection-end="344" vertical-scroll-proportion="0.2437276" vertical-offset="0" max-vertical-offset="1037">
               <folding />
             </state>
           </provider>
@@ -53,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="headers.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="headers.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/headers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="50" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0609319" vertical-offset="17" max-vertical-offset="918">
+            <state line="6" column="33" selection-start="209" selection-end="209" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -160,11 +161,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_site/works/index.html" />
         <option value="$PROJECT_DIR$/_layouts/biography.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_site/biography/index.html" />
         <option value="$PROJECT_DIR$/biography/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_includes/headers.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
   </component>
@@ -860,7 +861,11 @@
       <created>1447101784002</created>
       <updated>1447101784002</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="change13">
+      <created>1447102356542</created>
+      <updated>1447102356542</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1047,16 +1052,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+    <entry file="file://$PROJECT_DIR$/_includes/headers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="89" selection-end="121" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1037">
+        <state line="6" column="33" selection-start="209" selection-end="209" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/headers.html">
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0609319" vertical-offset="17" max-vertical-offset="918">
+        <state line="8" column="32" selection-start="331" selection-end="344" vertical-scroll-proportion="0.2437276" vertical-offset="0" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
