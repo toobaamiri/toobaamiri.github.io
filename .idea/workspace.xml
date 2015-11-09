@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.html" afterPath="$PROJECT_DIR$/works/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -92,10 +92,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="56" selection-start="694" selection-end="694" vertical-scroll-proportion="0.45419848" vertical-offset="0" max-vertical-offset="524">
+            <state line="14" column="56" selection-start="694" selection-end="694" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="19" selection-start="213" selection-end="213" vertical-scroll-proportion="0.21136767" vertical-offset="0" max-vertical-offset="563">
               <folding />
             </state>
           </provider>
@@ -141,6 +150,7 @@
         <option value="$PROJECT_DIR$/_site/blog/index.html" />
         <option value="$PROJECT_DIR$/_site/blog/start/index.html" />
         <option value="$PROJECT_DIR$/works/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -610,7 +620,11 @@
       <created>1447089857955</created>
       <updated>1447089857955</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="change13">
+      <created>1447091774622</created>
+      <updated>1447091774622</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -663,13 +677,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="58" selection-start="458" selection-end="458" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/headers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="20" selection-start="170" selection-end="170" vertical-scroll-proportion="-1.8461539" vertical-offset="37" max-vertical-offset="918">
@@ -771,7 +778,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="56" selection-start="694" selection-end="694" vertical-scroll-proportion="0.45419848" vertical-offset="0" max-vertical-offset="524">
+        <state line="14" column="56" selection-start="694" selection-end="694" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="19" selection-start="213" selection-end="213" vertical-scroll-proportion="0.21136767" vertical-offset="0" max-vertical-offset="563">
           <folding />
         </state>
       </provider>
