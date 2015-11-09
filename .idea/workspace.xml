@@ -68,7 +68,7 @@
       <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="48" selection-start="119" selection-end="119" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
+            <state line="3" column="63" selection-start="134" selection-end="134" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -91,9 +91,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1037">
               <folding>
-                <marker date="1447082347707" expanded="true" signature="21:2394" placeholder="..." />
-                <marker date="1447082347707" expanded="true" signature="1355:2386" placeholder="..." />
-                <marker date="1447082347707" expanded="true" signature="1748:1805" placeholder="..." />
+                <marker date="1447082696084" expanded="true" signature="21:2394" placeholder="..." />
+                <marker date="1447082696084" expanded="true" signature="1355:2386" placeholder="..." />
+                <marker date="1447082696084" expanded="true" signature="1748:1805" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -281,6 +281,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toobaamiri.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toobaamiri.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -615,7 +633,11 @@
       <created>1447082203528</created>
       <updated>1447082203528</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change4">
+      <created>1447082512660</created>
+      <updated>1447082512660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -652,7 +674,8 @@
     </option>
     <MESSAGE value="change2" />
     <MESSAGE value="change3" />
-    <option name="LAST_COMMIT_MESSAGE" value="change3" />
+    <MESSAGE value="change4" />
+    <option name="LAST_COMMIT_MESSAGE" value="change4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -709,9 +732,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
           <folding>
-            <marker date="1447082347707" expanded="true" signature="21:2394" placeholder="..." />
-            <marker date="1447082347707" expanded="true" signature="1355:2386" placeholder="..." />
-            <marker date="1447082347707" expanded="true" signature="1748:1805" placeholder="..." />
+            <marker date="1447082696084" expanded="true" signature="21:2394" placeholder="..." />
+            <marker date="1447082696084" expanded="true" signature="1355:2386" placeholder="..." />
+            <marker date="1447082696084" expanded="true" signature="1748:1805" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -773,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="48" selection-start="119" selection-end="119" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
+        <state line="3" column="63" selection-start="134" selection-end="134" vertical-scroll-proportion="0.09497207" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
