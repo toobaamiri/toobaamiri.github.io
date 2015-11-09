@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01235e43-2e09-43e4-b155-051a598d33c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.html" afterPath="$PROJECT_DIR$/works/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="toobaamiri.github.io.iws" />
@@ -64,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="0.75977653" vertical-offset="0" max-vertical-offset="918">
+            <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
@@ -98,11 +99,7 @@
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1037">
-              <folding>
-                <marker date="1447082798306" expanded="true" signature="21:2394" placeholder="..." />
-                <marker date="1447082798306" expanded="true" signature="1355:2386" placeholder="..." />
-                <marker date="1447082798306" expanded="true" signature="1748:1805" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="10" selection-start="726" selection-end="726" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
+            <state line="2" column="29" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0648855" vertical-offset="0" max-vertical-offset="524">
               <folding />
             </state>
           </provider>
@@ -145,12 +142,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/blog/index.html" />
-        <option value="$PROJECT_DIR$/works/index.html" />
         <option value="$PROJECT_DIR$/_includes/headers.html" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-12-05-start - Copy.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/works/index.html" />
       </list>
     </option>
   </component>
@@ -644,7 +641,11 @@
       <created>1447082991817</created>
       <updated>1447082991817</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change6">
+      <created>1447083080104</created>
+      <updated>1447083080104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -732,24 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-          <folding>
-            <marker date="1447082798306" expanded="true" signature="21:2394" placeholder="..." />
-            <marker date="1447082798306" expanded="true" signature="1355:2386" placeholder="..." />
-            <marker date="1447082798306" expanded="true" signature="1748:1805" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="726" selection-end="726" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="1339" selection-end="1339" vertical-scroll-proportion="-15.692307" vertical-offset="17" max-vertical-offset="2448">
@@ -807,7 +790,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="0.75977653" vertical-offset="0" max-vertical-offset="918">
+        <state line="24" column="35" selection-start="879" selection-end="879" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0648855" vertical-offset="0" max-vertical-offset="524">
           <folding />
         </state>
       </provider>
